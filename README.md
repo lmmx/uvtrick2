@@ -4,6 +4,8 @@
 
 > A fun party trick, via `uv` and pickle, to run Python code from another venv ... into this one.
 
+- Rebuilt from abandoned fork https://github.com/koaning/uvtrick/pull/9
+
 ## Quickstart
 
 You can install this tool via:
